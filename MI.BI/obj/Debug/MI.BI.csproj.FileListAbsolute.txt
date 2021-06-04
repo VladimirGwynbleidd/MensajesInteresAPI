@@ -1,0 +1,80 @@
+C:\VS2019\MensajesInteresAPI\MI.BI\bin\Debug\MI.BI.dll.config
+C:\VS2019\MensajesInteresAPI\MI.BI\bin\Debug\MI.BI.dll
+C:\VS2019\MensajesInteresAPI\MI.BI\bin\Debug\MI.BI.pdb
+C:\VS2019\MensajesInteresAPI\MI.BI\bin\Debug\MI.EN.dll
+C:\VS2019\MensajesInteresAPI\MI.BI\bin\Debug\MI.PI.dll
+C:\VS2019\MensajesInteresAPI\MI.BI\bin\Debug\Newtonsoft.Json.dll
+C:\VS2019\MensajesInteresAPI\MI.BI\bin\Debug\MI.DAO.dll
+C:\VS2019\MensajesInteresAPI\MI.BI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\VS2019\MensajesInteresAPI\MI.BI\bin\Debug\MI.EN.pdb
+C:\VS2019\MensajesInteresAPI\MI.BI\bin\Debug\MI.PI.pdb
+C:\VS2019\MensajesInteresAPI\MI.BI\bin\Debug\MI.PI.dll.config
+C:\VS2019\MensajesInteresAPI\MI.BI\bin\Debug\Newtonsoft.Json.xml
+C:\VS2019\MensajesInteresAPI\MI.BI\bin\Debug\MI.DAO.pdb
+C:\VS2019\MensajesInteresAPI\MI.BI\bin\Debug\MI.DAO.dll.config
+C:\VS2019\MensajesInteresAPI\MI.BI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\VS2019\MensajesInteresAPI\MI.BI\obj\Debug\MI.BI.csprojAssemblyReference.cache
+C:\VS2019\MensajesInteresAPI\MI.BI\obj\Debug\MI.BI.csproj.CoreCompileInputs.cache
+C:\VS2019\MensajesInteresAPI\MI.BI\obj\Debug\MI.BI.csproj.CopyComplete
+C:\VS2019\MensajesInteresAPI\MI.BI\obj\Debug\MI.BI.dll
+C:\VS2019\MensajesInteresAPI\MI.BI\obj\Debug\MI.BI.pdb
+C:\MensajesInteresAPI\MI.BI\bin\Debug\MI.BI.dll.config
+C:\MensajesInteresAPI\MI.BI\bin\Debug\MI.BI.dll
+C:\MensajesInteresAPI\MI.BI\bin\Debug\MI.BI.pdb
+C:\MensajesInteresAPI\MI.BI\bin\Debug\MI.EN.dll
+C:\MensajesInteresAPI\MI.BI\bin\Debug\MI.PI.dll
+C:\MensajesInteresAPI\MI.BI\bin\Debug\Newtonsoft.Json.dll
+C:\MensajesInteresAPI\MI.BI\bin\Debug\MI.DAO.dll
+C:\MensajesInteresAPI\MI.BI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\MensajesInteresAPI\MI.BI\bin\Debug\MI.EN.pdb
+C:\MensajesInteresAPI\MI.BI\bin\Debug\MI.PI.pdb
+C:\MensajesInteresAPI\MI.BI\bin\Debug\MI.PI.dll.config
+C:\MensajesInteresAPI\MI.BI\bin\Debug\Newtonsoft.Json.xml
+C:\MensajesInteresAPI\MI.BI\bin\Debug\MI.DAO.pdb
+C:\MensajesInteresAPI\MI.BI\bin\Debug\MI.DAO.dll.config
+C:\MensajesInteresAPI\MI.BI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\MensajesInteresAPI\MI.BI\obj\Debug\MI.BI.csproj.CoreCompileInputs.cache
+C:\MensajesInteresAPI\MI.BI\obj\Debug\MI.BI.csproj.CopyComplete
+C:\MensajesInteresAPI\MI.BI\obj\Debug\MI.BI.dll
+C:\MensajesInteresAPI\MI.BI\obj\Debug\MI.BI.pdb
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.BI\bin\Debug\MI.BI.dll.config
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.BI\bin\Debug\MI.BI.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.BI\bin\Debug\MI.BI.pdb
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.BI\bin\Debug\MI.EN.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.BI\bin\Debug\MI.PI.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.BI\bin\Debug\Newtonsoft.Json.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.BI\bin\Debug\MI.DAO.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.BI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.BI\bin\Debug\MI.EN.pdb
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.BI\bin\Debug\MI.PI.pdb
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.BI\bin\Debug\MI.PI.dll.config
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.BI\bin\Debug\Newtonsoft.Json.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.BI\bin\Debug\MI.DAO.pdb
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.BI\bin\Debug\MI.DAO.dll.config
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.BI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.BI\obj\Debug\MI.BI.csprojAssemblyReference.cache
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.BI\obj\Debug\MI.BI.csproj.CoreCompileInputs.cache
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.BI\obj\Debug\MI.BI.csproj.CopyComplete
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.BI\obj\Debug\MI.BI.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.BI\obj\Debug\MI.BI.pdb
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.BI\bin\Debug\MI.BI.dll.config
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.BI\bin\Debug\MI.BI.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.BI\bin\Debug\MI.BI.pdb
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.BI\bin\Debug\MI.EN.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.BI\bin\Debug\MI.PI.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.BI\bin\Debug\Newtonsoft.Json.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.BI\bin\Debug\MI.DAO.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.BI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.BI\bin\Debug\MI.EN.pdb
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.BI\bin\Debug\MI.PI.pdb
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.BI\bin\Debug\MI.PI.dll.config
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.BI\bin\Debug\Newtonsoft.Json.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.BI\bin\Debug\MI.DAO.pdb
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.BI\bin\Debug\MI.DAO.dll.config
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.BI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.BI\obj\Debug\MI.BI.csprojAssemblyReference.cache
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.BI\obj\Debug\MI.BI.csproj.CoreCompileInputs.cache
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.BI\obj\Debug\MI.BI.csproj.CopyComplete
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.BI\obj\Debug\MI.BI.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.BI\obj\Debug\MI.BI.pdb
+C:\MensajesInteresAPI\MI.BI\obj\Debug\MI.BI.csproj.AssemblyReference.cache

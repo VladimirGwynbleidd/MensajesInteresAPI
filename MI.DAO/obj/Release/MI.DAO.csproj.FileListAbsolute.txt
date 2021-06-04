@@ -1,0 +1,106 @@
+C:\VS2019\MensajesInteresAPI\MI.DAO\bin\Release\MI.DAO.dll.config
+C:\VS2019\MensajesInteresAPI\MI.DAO\bin\Release\MI.DAO.dll
+C:\VS2019\MensajesInteresAPI\MI.DAO\bin\Release\MI.DAO.pdb
+C:\VS2019\MensajesInteresAPI\MI.DAO\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\VS2019\MensajesInteresAPI\MI.DAO\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\VS2019\MensajesInteresAPI\MI.DAO\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+C:\VS2019\MensajesInteresAPI\MI.DAO\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\VS2019\MensajesInteresAPI\MI.DAO\bin\Release\Microsoft.Extensions.Logging.dll
+C:\VS2019\MensajesInteresAPI\MI.DAO\bin\Release\Microsoft.Extensions.Options.dll
+C:\VS2019\MensajesInteresAPI\MI.DAO\bin\Release\Microsoft.Extensions.Primitives.dll
+C:\VS2019\MensajesInteresAPI\MI.DAO\bin\Release\System.Buffers.dll
+C:\VS2019\MensajesInteresAPI\MI.DAO\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\VS2019\MensajesInteresAPI\MI.DAO\bin\Release\System.Memory.dll
+C:\VS2019\MensajesInteresAPI\MI.DAO\bin\Release\System.Numerics.Vectors.dll
+C:\VS2019\MensajesInteresAPI\MI.DAO\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\VS2019\MensajesInteresAPI\MI.DAO\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\VS2019\MensajesInteresAPI\MI.DAO\bin\Release\System.ValueTuple.dll
+C:\VS2019\MensajesInteresAPI\MI.DAO\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\VS2019\MensajesInteresAPI\MI.DAO\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+C:\VS2019\MensajesInteresAPI\MI.DAO\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\VS2019\MensajesInteresAPI\MI.DAO\bin\Release\Microsoft.Extensions.Logging.xml
+C:\VS2019\MensajesInteresAPI\MI.DAO\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\VS2019\MensajesInteresAPI\MI.DAO\bin\Release\Microsoft.Extensions.Options.xml
+C:\VS2019\MensajesInteresAPI\MI.DAO\bin\Release\Microsoft.Extensions.Primitives.xml
+C:\VS2019\MensajesInteresAPI\MI.DAO\bin\Release\System.Buffers.xml
+C:\VS2019\MensajesInteresAPI\MI.DAO\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\VS2019\MensajesInteresAPI\MI.DAO\bin\Release\System.Memory.xml
+C:\VS2019\MensajesInteresAPI\MI.DAO\bin\Release\System.Numerics.Vectors.xml
+C:\VS2019\MensajesInteresAPI\MI.DAO\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\VS2019\MensajesInteresAPI\MI.DAO\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\VS2019\MensajesInteresAPI\MI.DAO\bin\Release\System.ValueTuple.xml
+C:\VS2019\MensajesInteresAPI\MI.DAO\obj\Release\MI.DAO.csproj.CoreCompileInputs.cache
+C:\VS2019\MensajesInteresAPI\MI.DAO\obj\Release\MI.DAO.csproj.CopyComplete
+C:\VS2019\MensajesInteresAPI\MI.DAO\obj\Release\MI.DAO.dll
+C:\VS2019\MensajesInteresAPI\MI.DAO\obj\Release\MI.DAO.pdb
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.DAO\bin\Release\MI.DAO.dll.config
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.DAO\bin\Release\MI.DAO.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.DAO\bin\Release\MI.DAO.pdb
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.DAO\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.DAO\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.DAO\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.DAO\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.DAO\bin\Release\Microsoft.Extensions.Logging.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.DAO\bin\Release\Microsoft.Extensions.Options.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.DAO\bin\Release\Microsoft.Extensions.Primitives.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.DAO\bin\Release\System.Buffers.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.DAO\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.DAO\bin\Release\System.Memory.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.DAO\bin\Release\System.Numerics.Vectors.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.DAO\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.DAO\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.DAO\bin\Release\System.ValueTuple.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.DAO\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.DAO\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.DAO\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.DAO\bin\Release\Microsoft.Extensions.Logging.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.DAO\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.DAO\bin\Release\Microsoft.Extensions.Options.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.DAO\bin\Release\Microsoft.Extensions.Primitives.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.DAO\bin\Release\System.Buffers.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.DAO\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.DAO\bin\Release\System.Memory.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.DAO\bin\Release\System.Numerics.Vectors.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.DAO\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.DAO\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.DAO\bin\Release\System.ValueTuple.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.DAO\obj\Release\MI.DAO.csproj.CoreCompileInputs.cache
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.DAO\obj\Release\MI.DAO.csproj.CopyComplete
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.DAO\obj\Release\MI.DAO.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.DAO\obj\Release\MI.DAO.pdb
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\bin\Release\MI.DAO.dll.config
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\bin\Release\MI.DAO.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\bin\Release\MI.DAO.pdb
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\bin\Release\Microsoft.Extensions.Logging.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\bin\Release\Microsoft.Extensions.Options.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\bin\Release\Microsoft.Extensions.Primitives.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\bin\Release\System.Buffers.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\bin\Release\System.Memory.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\bin\Release\System.Numerics.Vectors.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\bin\Release\System.ValueTuple.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\bin\Release\Microsoft.Extensions.Logging.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\bin\Release\Microsoft.Extensions.Options.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\bin\Release\Microsoft.Extensions.Primitives.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\bin\Release\System.Buffers.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\bin\Release\System.Memory.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\bin\Release\System.Numerics.Vectors.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\bin\Release\System.ValueTuple.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\obj\Release\MI.DAO.csprojAssemblyReference.cache
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\obj\Release\MI.DAO.csproj.CoreCompileInputs.cache
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\obj\Release\MI.DAO.csproj.CopyComplete
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\obj\Release\MI.DAO.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.DAO\obj\Release\MI.DAO.pdb

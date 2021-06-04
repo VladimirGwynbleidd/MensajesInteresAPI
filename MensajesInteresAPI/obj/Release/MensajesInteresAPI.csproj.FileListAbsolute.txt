@@ -1,0 +1,392 @@
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\MensajesInteresAPI.dll.config
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\MensajesInteresAPI.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\MensajesInteresAPI.pdb
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\csc.exe
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\csc.exe.config
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\csc.rsp
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\csi.exe
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\csi.exe.config
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\csi.rsp
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.AppContext.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Console.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.IO.Compression.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Net.Http.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Net.Sockets.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.ValueTuple.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Xml.XPath.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\vbc.exe
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\vbc.exe.config
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\vbc.rsp
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\VBCSCompiler.exe
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\Antlr3.Runtime.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\MI.BI.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\MI.EN.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\Newtonsoft.Json.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Net.Http.Formatting.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Helpers.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Http.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Http.WebHost.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Mvc.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Optimization.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Razor.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.WebPages.Deployment.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.WebPages.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.WebPages.Razor.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\WebGrease.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\MI.PI.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\MI.DAO.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\MI.BI.pdb
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\MI.BI.dll.config
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\MI.EN.pdb
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\Newtonsoft.Json.xml
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Net.Http.Formatting.xml
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Helpers.xml
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Http.xml
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Http.WebHost.xml
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Mvc.xml
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Optimization.xml
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Razor.xml
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.WebPages.xml
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.WebPages.Deployment.xml
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.WebPages.Razor.xml
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\Antlr3.Runtime.pdb
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\MI.PI.pdb
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\MI.PI.dll.config
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\MI.DAO.pdb
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\MI.DAO.dll.config
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\obj\Release\MensajesInteresAPI.csprojAssemblyReference.cache
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\obj\Release\MensajesInteresAPI.csproj.CoreCompileInputs.cache
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\obj\Release\MensajesInteresAPI.csproj.CopyComplete
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\obj\Release\MensajesInteresAPI.dll
+C:\VS2019\MensajesInteresAPI\MensajesInteresAPI\obj\Release\MensajesInteresAPI.pdb
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\MensajesInteresAPI.dll.config
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\MensajesInteresAPI.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\MensajesInteresAPI.pdb
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\csc.exe
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\csc.exe.config
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\csc.rsp
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\csi.exe
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\csi.exe.config
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\csi.rsp
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.AppContext.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Console.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.IO.Compression.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Net.Http.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Net.Sockets.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.ValueTuple.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Xml.XPath.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\vbc.exe
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\vbc.exe.config
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\vbc.rsp
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\VBCSCompiler.exe
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\Antlr3.Runtime.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\MI.BI.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\MI.EN.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\Newtonsoft.Json.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\System.Net.Http.Formatting.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Helpers.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Http.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Http.WebHost.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Mvc.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Optimization.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Razor.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.WebPages.Deployment.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.WebPages.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.WebPages.Razor.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\WebGrease.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\MI.PI.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\MI.DAO.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\MI.BI.pdb
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\MI.BI.dll.config
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\MI.EN.pdb
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\Newtonsoft.Json.xml
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\System.Net.Http.Formatting.xml
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Helpers.xml
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Http.xml
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Http.WebHost.xml
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Mvc.xml
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Optimization.xml
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Razor.xml
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.WebPages.xml
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.WebPages.Deployment.xml
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.WebPages.Razor.xml
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\Antlr3.Runtime.pdb
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\MI.PI.pdb
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\MI.PI.dll.config
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\MI.DAO.pdb
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\MI.DAO.dll.config
+C:\MensajesInteresAPI\MensajesInteresAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\MensajesInteresAPI\MensajesInteresAPI\obj\Release\MensajesInteresAPI.csprojAssemblyReference.cache
+C:\MensajesInteresAPI\MensajesInteresAPI\obj\Release\MensajesInteresAPI.csproj.CoreCompileInputs.cache
+C:\MensajesInteresAPI\MensajesInteresAPI\obj\Release\MensajesInteresAPI.csproj.CopyComplete
+C:\MensajesInteresAPI\MensajesInteresAPI\obj\Release\MensajesInteresAPI.dll
+C:\MensajesInteresAPI\MensajesInteresAPI\obj\Release\MensajesInteresAPI.pdb
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\MensajesInteresAPI.dll.config
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\MensajesInteresAPI.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\MensajesInteresAPI.pdb
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\csc.exe
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\csc.exe.config
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\csc.rsp
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\csi.exe
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\csi.exe.config
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\csi.rsp
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\System.AppContext.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\System.Console.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\System.IO.Compression.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\System.Net.Http.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\System.Net.Sockets.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\System.ValueTuple.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\System.Xml.XPath.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\vbc.exe
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\vbc.exe.config
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\vbc.rsp
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\VBCSCompiler.exe
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\Antlr3.Runtime.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\MI.BI.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\MI.EN.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\Newtonsoft.Json.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\System.Net.Http.Formatting.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\System.Web.Helpers.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\System.Web.Http.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\System.Web.Http.WebHost.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\System.Web.Mvc.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\System.Web.Optimization.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\System.Web.Razor.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\System.Web.WebPages.Deployment.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\System.Web.WebPages.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\System.Web.WebPages.Razor.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\WebGrease.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\MI.PI.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\MI.DAO.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\MI.BI.pdb
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\MI.BI.dll.config
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\MI.EN.pdb
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\Newtonsoft.Json.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\System.Net.Http.Formatting.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\System.Web.Helpers.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\System.Web.Http.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\System.Web.Http.WebHost.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\System.Web.Mvc.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\System.Web.Optimization.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\System.Web.Razor.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\System.Web.WebPages.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\System.Web.WebPages.Deployment.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\System.Web.WebPages.Razor.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\Antlr3.Runtime.pdb
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\MI.PI.pdb
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\MI.PI.dll.config
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\MI.DAO.pdb
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\MI.DAO.dll.config
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\obj\Release\MensajesInteresAPI.csprojAssemblyReference.cache
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\obj\Release\MensajesInteresAPI.csproj.CoreCompileInputs.cache
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\obj\Release\MensajesInteresAPI.csproj.CopyComplete
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\obj\Release\MensajesInteresAPI.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MensajesInteresAPI\obj\Release\MensajesInteresAPI.pdb
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\MensajesInteresAPI.dll.config
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\MensajesInteresAPI.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\MensajesInteresAPI.pdb
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\csc.exe
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\csc.exe.config
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\csc.rsp
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\csi.exe
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\csi.exe.config
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\csi.rsp
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.AppContext.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Console.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.IO.Compression.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Net.Http.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Net.Sockets.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.ValueTuple.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Xml.XPath.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\vbc.exe
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\vbc.exe.config
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\vbc.rsp
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\VBCSCompiler.exe
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\Antlr3.Runtime.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\MI.BI.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\MI.EN.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\Newtonsoft.Json.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Net.Http.Formatting.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Helpers.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Http.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Http.WebHost.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Mvc.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Optimization.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Razor.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.WebPages.Deployment.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.WebPages.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.WebPages.Razor.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\WebGrease.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\MI.PI.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\MI.DAO.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\MI.BI.pdb
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\MI.BI.dll.config
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\MI.EN.pdb
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\Newtonsoft.Json.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Net.Http.Formatting.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Helpers.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Http.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Http.WebHost.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Mvc.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Optimization.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.Razor.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.WebPages.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.WebPages.Deployment.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\System.Web.WebPages.Razor.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\Antlr3.Runtime.pdb
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\MI.PI.pdb
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\MI.PI.dll.config
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\MI.DAO.pdb
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\MI.DAO.dll.config
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\obj\Release\MensajesInteresAPI.csprojAssemblyReference.cache
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\obj\Release\MensajesInteresAPI.csproj.CoreCompileInputs.cache
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\obj\Release\MensajesInteresAPI.csproj.CopyComplete
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\obj\Release\MensajesInteresAPI.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MensajesInteresAPI\obj\Release\MensajesInteresAPI.pdb

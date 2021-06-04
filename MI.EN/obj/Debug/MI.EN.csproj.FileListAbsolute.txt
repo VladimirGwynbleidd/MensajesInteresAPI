@@ -1,0 +1,24 @@
+C:\VS2019\MensajesInteresAPI\MI.EN\bin\Debug\MI.EN.dll
+C:\VS2019\MensajesInteresAPI\MI.EN\bin\Debug\MI.EN.pdb
+C:\VS2019\MensajesInteresAPI\MI.EN\obj\Debug\MI.EN.csprojAssemblyReference.cache
+C:\VS2019\MensajesInteresAPI\MI.EN\obj\Debug\MI.EN.csproj.CoreCompileInputs.cache
+C:\VS2019\MensajesInteresAPI\MI.EN\obj\Debug\MI.EN.dll
+C:\VS2019\MensajesInteresAPI\MI.EN\obj\Debug\MI.EN.pdb
+C:\MensajesInteresAPI\MI.EN\bin\Debug\MI.EN.dll
+C:\MensajesInteresAPI\MI.EN\bin\Debug\MI.EN.pdb
+C:\MensajesInteresAPI\MI.EN\obj\Debug\MI.EN.csproj.CoreCompileInputs.cache
+C:\MensajesInteresAPI\MI.EN\obj\Debug\MI.EN.dll
+C:\MensajesInteresAPI\MI.EN\obj\Debug\MI.EN.pdb
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.EN\bin\Debug\MI.EN.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.EN\bin\Debug\MI.EN.pdb
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.EN\obj\Debug\MI.EN.csprojAssemblyReference.cache
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.EN\obj\Debug\MI.EN.csproj.CoreCompileInputs.cache
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.EN\obj\Debug\MI.EN.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI-main\MI.EN\obj\Debug\MI.EN.pdb
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.EN\bin\Debug\MI.EN.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.EN\bin\Debug\MI.EN.pdb
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.EN\obj\Debug\MI.EN.csproj.CoreCompileInputs.cache
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.EN\obj\Debug\MI.EN.dll
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.EN\obj\Debug\MI.EN.pdb
+C:\SofttekSat\ppmc\74154 Buzon Tributario\2019\MensajesInteresAPI\MI.EN\obj\Debug\MI.EN.csprojAssemblyReference.cache
+C:\MensajesInteresAPI\MI.EN\obj\Debug\MI.EN.csproj.AssemblyReference.cache
